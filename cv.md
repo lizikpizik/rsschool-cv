@@ -23,4 +23,4 @@ alert( result );
   - **University:** Minsk State Linguistic University.Faculty of Intercultural Communications
 # Languages
   - **English (B1)**
-  - **Chinece (A1)**
+  - **Chinese (A1)**
