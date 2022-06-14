@@ -20,7 +20,7 @@ body  {
 
 .header {
     border: 1px solid black;
-    background: pink;
+    background: HotPink;
     display: flex;
 }
     
@@ -31,12 +31,12 @@ body  {
 .main
 {
     border: 1px solid black;
-    background: GREY;
+    background: pink; 
 }
 .footer
 {
-    border: 1px solid lightgreen;
-    background: lightgreen;
+    border: 1px solid black;
+    background: HotPink;
 }
 .container {
     max-width: 1440px;
@@ -57,3 +57,11 @@ body  {
 .nav-item:not(:last-child) {
     margin-right: 180px;
 }
+
+.container1
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+
