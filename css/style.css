@@ -20,7 +20,7 @@ body  {
 
 .header {
     border: 1px solid black;
-    background: HotPink;
+    background: Pink;
     display: flex;
 }
     
@@ -31,12 +31,12 @@ body  {
 .main
 {
     border: 1px solid black;
-    background: pink; 
+    background: #bbbbbb; 
 }
 .footer
 {
     border: 1px solid black;
-    background: HotPink;
+    background:Pink;
 }
 .container {
     max-width: 1440px;
